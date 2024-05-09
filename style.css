@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+.showcase
+{
+    background-color: black;
+    color: white;
+    
+}
+.text
+{
+    border-radius: 1px;
+    border-color: grey; 
+}
+.footer1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+
+}
+.footer2
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+
+}
+.footer3
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+
+}
+.footer4
+{
+    display: flex;
+    align-items: flex-end;
+    justify-content:flex-end;
+    position: absolute;
+    
+
+}
+.last
+{
+    margin-left: 10px;
+}
